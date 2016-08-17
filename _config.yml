@@ -1,7 +1,7 @@
 name: PT-2
 favicon: null
-layout_spectrum: 0.7829925804398954
-typography_spectrum: 0.48290949664078653
+layout_spectrum: 0.10629
+typography_spectrum: 0.63703
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.8104097342584282
-  lightness: 0.8169692745432258
-  saturation: 0.9318097913637757
-  rhythmicContrast: 0.7315038740634918
+    - '#ffffff'
+    - '#08b4c8'
+    - '#8fc225'
+    - '#89e1e6'
+    - '#c9e591'
+  brandStrength: 1
+  lightness: 0.3125
+  saturation: 0.8125
+  rhythmicContrast: 1
 purpose: []
